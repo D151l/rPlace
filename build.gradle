@@ -34,7 +34,7 @@ subprojects {
 
         compileOnly 'org.json:json:20220320'
         compileOnly 'com.google.code.gson:gson:2.9.0'
-        compileOnly 'org.mongodb:mongodb-driver-legacy:4.6.1'
+        compileOnly 'org.mongodb:mongodb-driver-legacy:4.7.1'
     }
 
     compileKotlin {
