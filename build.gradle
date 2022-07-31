@@ -33,7 +33,7 @@ subprojects {
         testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
 
         compileOnly 'org.json:json:20220320'
-        compileOnly 'com.google.code.gson:gson:2.9.0'
+        compileOnly 'com.google.code.gson:gson:2.9.1'
         compileOnly 'org.mongodb:mongodb-driver-legacy:4.6.1'
     }
 
